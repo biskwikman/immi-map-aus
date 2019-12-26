@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "immi-detention-centresss",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Melbourne Immigration Transit Accommodation", "total": 242, "children": "true" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 144.94598667542212, -37.685474722090703 ] ] } },
+{ "type": "Feature", "properties": { "name": "Brisbane Immigration Transit Accommodation", "total": 185, "children": "false" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 153.103171871275094, -27.422464063932683 ] ] } },
+{ "type": "Feature", "properties": { "name": "Adelaide Immigration Transit Accommodation", "total": 13, "children": "false" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 138.580038107109885, -34.856533346651354 ] ] } },
+{ "type": "Feature", "properties": { "name": "Perth Immigration Detention Centre", "total": 30, "children": "false" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 115.95672467950132, -31.932040382381192 ] ] } },
+{ "type": "Feature", "properties": { "name": "Villawood Detention Centre", "total": 489, "children": "false" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 150.989479183140617, -33.875265167228562 ] ] } },
+{ "type": "Feature", "properties": { "name": "Yonga Hill Detention Centre", "total": 298, "children": "false" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 116.62884358942955, -31.668586314830915 ] ] } },
+{ "type": "Feature", "properties": { "name": "Northern Alternative Place of Detention", "total": 15, "children": "true" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 130.879959558214409, -12.404678267338321 ] ] } }
+]
+}
